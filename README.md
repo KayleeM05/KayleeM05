@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 - 👋 Hi, I’m @KayleeM05
 - 👀 I’m interested in chemistry, biology, biochemistry overall, learning python first and foremost, coding in general, and learning!
 - 🌱 I’m currently learning Chemical Engineering and AI for my masters degree!
