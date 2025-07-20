@@ -19,7 +19,7 @@ located: Pittsburgh, PA
 </p>
 
 ```yaml
-interests: chemistry, biology, biochemistry, machine learning, artificial intelligence
+interests: chemical engineering, nuclear engineering, biotechnology, chemistry, biology, biochemistry, machine learning, artificial intelligence
 currently learning: data science, python, matlab, html, GIT
 
 education:
